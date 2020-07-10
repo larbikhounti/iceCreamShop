@@ -1,0 +1,50 @@
+body{
+    background-color: pink;
+}
+.surface{
+   
+  background-color: #E5E9F1;  
+  background-image: url("../img/back.jpg");
+  background-size: cover;
+ background-repeat: no-repeat;
+    height: 37em;
+    margin-top: 1em;
+   
+}
+.mynav-item{
+    color: rgb(43, 38, 39);
+}
+.logo{
+    margin-left: 1em;
+    color: #de3b6a;
+}
+.starter{
+    padding-top: 9em;
+}
+.descreption , .header-title, .buttons{
+    text-align: center;
+}
+.header{
+    padding-top: 5em;
+}
+.shop{
+    background-color: #de3b6a;
+    border: pink;
+    color: rgb(255, 255, 255);
+    width: 6em;
+    margin-right: 1em;
+    font-weight: bold;
+}
+.col-xm-12{
+    padding-top: 1em;
+   
+
+    
+}
+.descreption{
+    font-size: 0.9em;
+}
+.header-title{
+    color: #de3b6a;
+}
+
